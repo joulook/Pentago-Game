@@ -8,7 +8,7 @@ My 5th project was in the "Advance Programming" course at spring 2016 when I was
 
 I re-implemented this game and this version has more qualified GUI.
 
-| <img src="out1.jpg" alt="Pair Game" width="400"/> | 
+| <img src="out1.png" alt="Pair Game" width="400"/> | 
 |:--:| 
 | *version Two* |
 
